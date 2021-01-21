@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 300;
+    font-family: fantasy;
+}
+
+#app {
+    width;
+    100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+#gamep {
+    width;
+    100%;
+    height: 800px;
+    background-color: lightgoldenrodyellow;
+}
+
+#chatp {
+    width;
+    100%;
+    height: 1000px;
+    background-color: lightcoral;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
